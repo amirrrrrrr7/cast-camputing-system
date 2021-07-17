@@ -1,6 +1,6 @@
 # cast-camputing-system
 
-the cost computing system for transportation company
+the cost computing system for the transportation company
 
 This was my first programming project :)))
 
