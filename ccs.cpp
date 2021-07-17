@@ -1,4 +1,6 @@
 #include <iostream>
+
+// for custom colors
 //#include <stdlib.h>
 using namespace std;
 void ccs(void);
@@ -15,6 +17,8 @@ int main()
     int i=0;
     int j,z,c;
     long int a,b;
+      
+    //If we want this program to work indefinitely
     //for (;;)
     //{
     //clrscr();
